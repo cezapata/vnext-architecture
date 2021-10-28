@@ -7,6 +7,7 @@ To define a mechanism that allows us to deliver a great developer experience for
 
 - VS Code
   - Suggested Extensions
+  - Boilerplate
 - ESLint
   - define consistent set of rules
   - treat all warnings as errors
