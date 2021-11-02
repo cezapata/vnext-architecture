@@ -3,6 +3,9 @@
 ## Objective
 To define a mechanism that allows us to deliver a great developer experience for portal development.
 
+## Runtime environment
+- Github Codespaces
+
 ## Development environment
 
 - VS Code
